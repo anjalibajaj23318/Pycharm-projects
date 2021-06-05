@@ -1,4 +1,9 @@
 from utility import multiply,divide
 from shopping.more_shopping.shopping import buy
 
-print(multiply(2, 8))
+if __name__=="__main__":
+    print(divide(2, 8))
+
+
+
+
